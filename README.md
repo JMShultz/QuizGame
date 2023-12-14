@@ -1,6 +1,5 @@
 # QuizGame
-
-This aplication will allow clients to understand about social media marketing and search engine optimization. As well as online repution management.
+This will allow users to play a programming quiz game.
 
 
    <img src="./assets/images/ScreenShot.png">
