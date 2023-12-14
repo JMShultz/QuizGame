@@ -1,5 +1,5 @@
 # QuizGame
-This will allow users to play a programming quiz game.
+This will allow users to play a programming quiz game.Below is a screen shot and a link to play!
 
 
    <img src="./assets/images/ScreenShot.png">
